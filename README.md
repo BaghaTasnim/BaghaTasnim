@@ -1,11 +1,13 @@
 <div align="center" width="50">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=435&lines=I'm+Tasneem+Bagha)](https://git.io/typing-svg)
- 
+
 ![Totals Hits](https://komarev.com/ghpvc/?username=BaghaTasnim&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/tasneem_bgh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnim-bagha-a4b7392a6/)
- 
+
 </div>
+
 <hr>
 
 ## 🚀 Tools I Use
