@@ -5,8 +5,8 @@
 ### Hi, I'm **BaghaTasnim** 👋
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=BaghaTasnim&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your-telegram-handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/tasneem_bgh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnim-bagha-a4b7392a6/)
 
 </div>
 
@@ -39,17 +39,16 @@ class About:
 
 - 🔭 I'm currently exploring **AI Engineering**.
 - 💬 Ask me about **Web dev, App dev, or AI/ML**.
-- 📫 Reach me on **[Telegram](https://t.me/your-telegram-handle)** or **[LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)**.
+- 📫 Reach me on **[Telegram](https://t.me/tasneem_bgh)** or **[LinkedIn](https://www.linkedin.com/in/tasnim-bagha-a4b7392a6/)**.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=BaghaTasnim&show_icons=true&theme=dark" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaghaTasnim&layout=compact&theme=dark" width="48%">
 
 <details>
   <summary>More stats</summary>
-  <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaghaTasnim&theme=dark">
 </details>
 
 </div>
