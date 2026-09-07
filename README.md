@@ -1,8 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
-
-### Hi, I'm **BaghaTasnim** 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=435&lines=I'm+Tasneem;Web+%26+App+Developer;AI+Engineering+Enthusiast)](https://git.io/typing-svg)
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=BaghaTasnim&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/tasneem_bgh)
